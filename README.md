@@ -1,5 +1,5 @@
 # Dockerfiles
-Dockerfile for TensorFlow, Data Science, Machine Learning purpose, etc.
+Dockerfile for TensorFlow, Data Science, Machine Learning purpose, etc. Originally maintained by Craig Citro
 #### Install Docker
 #### Build image from STDIN: 
 docker build -t tensorflow:0.1 - < Dockerfile
