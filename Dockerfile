@@ -34,6 +34,7 @@ RUN pip --no-cache-dir install \
         sklearn \
         pandas \
         Pillow \
+        librosa \
         h5py \
         nltk \
         supervisor\
